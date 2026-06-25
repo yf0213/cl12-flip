@@ -35,13 +35,10 @@ puthon3 flip.py input.jpg output.jpg
 - 以下のように入力画像の左右反転画像が出力されます。
 
 |入力画像(input.jpg)|出力画像(output.jpg)|
-| ------------------ | ------------------ |
-| ![入力画像](images/input.jpg) | ![出力画像](images/output.jpg) |
+| :------------------: | :------------------: |
+| ![入力画像](./images/input.jpg) | ![出力画像](./images/output.jpg) |
 
 
 
 
 
-<img width="1275" height="850" alt="input" src="https://github.com/user-attachments/assets/912b276e-9f88-4f36-9e39-577210f9abc3" />
-
-<img width="640" height="468" alt="output" src="https://github.com/user-attachments/assets/f9702f8a-c098-4797-9e7a-f7d5eaf8a7ec" />
